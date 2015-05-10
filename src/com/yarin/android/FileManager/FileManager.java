@@ -30,6 +30,7 @@ import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
 
+/* ddf */
 public class FileManager extends ListActivity
 {
 	private List<IconifiedText>	directoryEntries = new ArrayList<IconifiedText>();
